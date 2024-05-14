@@ -12,7 +12,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
     <Routes>
-      <Route path='/whether' element={<Whether/>}/>
+      <Route path='/' element={<Whether/>}/>
 
     </Routes>
     </BrowserRouter>
